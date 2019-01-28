@@ -1,3 +1,5 @@
 zdanie 
 a to jest zmianka 
 zmiana z nowego brancha 2
+
+ale to juz bedzie widzial tylko master of dizaster ha !
