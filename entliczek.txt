@@ -1,2 +1,3 @@
 zdanie 
 a to jest zmianka 
+zmiana z nowego brancha 2
