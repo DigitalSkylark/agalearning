@@ -1,2 +1,3 @@
 zdanie 
 a to jest zmianka 
+zmiana tylko na masterze
