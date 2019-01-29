@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 wtorek 
+=======
+to jest moj pierwszy plik
+a to moja zmiana nr 1 
+zmiana nr 2 
+
+a to jest zmiana z branchu galazka
+difek ddd 
+>>>>>>> galazka
